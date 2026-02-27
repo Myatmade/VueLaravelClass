@@ -79,6 +79,7 @@ let sumResult = numbers.reduce(function (prev, current) {
 }, 0);
 console.log(sumResult);
 
+//custom forEach function, it takes an array and a callback function as parameters, and it will call the callback function for each item in the array
 function myForEach(array, callback) {
   for (let i = 0; i < array.length; i++) {
     callback(array[i]);

@@ -1,0 +1,20 @@
+{
+  "name": "vuelaravelclass",
+  "version": "1.0.0",
+  "description": "This is the repository for Vue Laravel Class. This class teaches: JavaScript Basic, Vuejs, Php, Laravel, Database, Api, and Inertia js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myatmade/VueLaravelClass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Myatmade/VueLaravelClass/issues"
+  },
+  "homepage": "https://github.com/Myatmade/VueLaravelClass#readme"
+}
